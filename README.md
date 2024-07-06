@@ -54,9 +54,9 @@ This project implements a UI design based on a Figma design and integrates with 
 
 ### Links
 
-- Live Site URL: [Blutech Solutions LLC](https://bluetech-department-list.vercel.app/)
+- Live Site URL: [Blutech Solutions LLC](https://bluetech-department-list-react.vercel.app/)
   (Note: The live site may not display data due to insecure API endpoint)
-- GitHub URL: [Repository](https://github.com/stephen-gift/bluetech-department-list.git)
+- GitHub URL: [Repository](https://github.com/stephen-gift/bluetech-department-list-react.git)
 
 ## Technologies Used
 
