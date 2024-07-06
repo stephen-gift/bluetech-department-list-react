@@ -75,7 +75,7 @@ This project implements a UI design based on a Figma design and integrates with 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/stephen-gift/bluetech-department-list.git
+git clone https://github.com/stephen-gift/bluetech-department-list-react.git
 ```
 
 ### Install dependencies
