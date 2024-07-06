@@ -54,7 +54,7 @@ const BDLHeader = (props: Props) => {
 
   const fetchData = async () => {
     try {
-      updateProducts(supplier, last, search); // Update context with fetched products
+      await updateProducts(supplier, last, search); // Update context with fetched products
     } catch (error) {
       console.error("Error fetching data:", error);
       // Handle error state
