@@ -2,10 +2,10 @@ import React from 'react'
 
 type Props = {}
 
-const index = (props: Props) => {
+const BDLLoader = (props: Props) => {
   return (
-    <div>index</div>
+    <div>BDLLoader</div>
   )
 }
 
-export default index
+export default BDLLoader
