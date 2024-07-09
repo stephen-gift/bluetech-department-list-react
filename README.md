@@ -141,7 +141,7 @@ Looking ahead, I aim to focus on refining my skills in:
 
 ## Author
 
-- Portfolio - [Stephen Gift Dada](https://www.yourportfolio.com)
+- Portfolio - [Stephen Gift Dada](https://stephengift.vercel.app/)
 - LinkedIn - [Your LinkedIn Profile](https://www.linkedin.com/in/stephen-gift-8894131b6)
 - GitHub - [@stephen-gift](https://github.com/stephen-gift)
 - Email - [stephengift43@gmail.com](mailto:stephengift43@gmail.com)
